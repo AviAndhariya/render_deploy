@@ -1,9 +1,29 @@
-{"book":[
-  {
-    "id":1,
-    "book":"harry porter"
-  }
-],
+{
+  "book": [
+   
+    {
+      "image_url": "https://marketing.dcassetcdn.com/blog/2015/August/bookcover-design-tips/InSitu_828x500.png",
+      "book": "3 mistakes of my life",
+      "author": "chetan bhagat",
+      "genre": "",
+      "edition": "2020",
+      "publisher": "chetan",
+      "cost": 399,
+      "borrowed": false,
+      "id": 1
+    },
+    {
+      "image_url": "https://marketing.dcassetcdn.com/blog/2015/August/bookcover-design-tips/InSitu_828x500.png",
+      "book": "wings of fire",
+      "author": "Dr.APJ kalam",
+      "genre": "",
+      "edition": "2020",
+      "publisher": "kalam",
+      "cost": 499,
+      "borrowed": false,
+      "id": 2
+    }
+  ],
   "users": [
     {
       "id": 1,
