@@ -23,6 +23,6 @@
       "id": 2
     }
   ],
-  "users": [],
-  "blogs": []
+  "auth":[],
+  "companies":[]
 }
